@@ -1,0 +1,36 @@
+{
+    "game" : {
+        "screen_size" : [640,480],
+        "background_color" : [0,0,0],
+        "foreground_color" : [255,255,255],
+        "game_title" : "Walking Game!",
+        "pixels_screen" : 32  
+    },
+    "entities" : {
+        "walking" : {
+            "image_file": ["walking.assets.images", "walking_animation_quiet_a.png"],
+            "walking_speed" : 8,
+            "image_range": 9,
+            "x_position" : 0,
+            "y_position" : 350,
+            "left_count" : 0,
+            "right_count" : 0
+        }
+    },
+    "font" : {
+        "size_font" : 30,
+        "font_color" : [255,0,0]
+    },
+    "timing" : {
+        "fps" : 60,
+        "time_per_frame" : 3000.0,
+        "last_update" : 0,
+        "update_time" : 0,
+        "render_frames" : 0,
+        "logic_frames" : 0,
+        "max_update" : 1000
+    }
+}
+
+
+

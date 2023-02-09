@@ -1,0 +1,10 @@
+setup.py
+walking/__init__.py
+walking/__main__.py
+walking/game.py
+walking.egg-info/PKG-INFO
+walking.egg-info/SOURCES.txt
+walking.egg-info/dependency_links.txt
+walking.egg-info/entry_points.txt
+walking.egg-info/requires.txt
+walking.egg-info/top_level.txt
